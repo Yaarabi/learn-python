@@ -1,0 +1,2 @@
+This is a new file created with 'x' mode.
+Appending more content to the file.
